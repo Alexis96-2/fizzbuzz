@@ -1,0 +1,23 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "practica 1 de la semana 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules ./node_modules/jest/bin/jest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexis96-2/fizzbuzz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexis96-2/fizzbuzz/issues"
+  },
+  "homepage": "https://github.com/Alexis96-2/fizzbuzz#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
